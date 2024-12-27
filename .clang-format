@@ -1,0 +1,11 @@
+﻿---
+BasedOnStyle: Mozilla
+AllowShortBlocksOnASingleLine: 'true'
+AllowShortCaseLabelsOnASingleLine: 'true'
+AllowShortIfStatementsOnASingleLine: WithoutElse
+AllowShortLambdasOnASingleLine: Inline
+AllowShortLoopsOnASingleLine: 'true'
+Language: Cpp
+Standard: Cpp11
+ColumnLimit: '120'
+...
